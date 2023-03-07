@@ -1,0 +1,6 @@
+House Rental Management System in PHP
+
+**Login Details**
+
+Username: mseti
+Password: rytone
